@@ -1,4 +1,4 @@
-var FILTERS = [ "open.e.kuaishou.com","log-api.pangolin-sdk-toutiao-b.com",];
+var FILTERS = [ "mobads.baidu.com",];
 var PROXY = "PROXY 127.0.0.1:9999";
 var DERECT = "DIRECT";
 function FindProxyForURL(url, host) {
